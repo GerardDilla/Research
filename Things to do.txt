@@ -1,0 +1,28 @@
+Needs to happen:
+
+Landing page: display slider, menu, categories and sample items, cart
+
+items have different values when clicked which will be passed on the form
+
+payment method will be on a modal
+
+payment method: choose if shop more or proceed to checkout
+
+if shop more: saves name as universal variable in a array
+
+if proceed to checkout: 
+
+Ask for: 
+Email, Full name, Full Address, Number, Checkout
+
+Then send email to customer informing date of arrival and cash on delivery and send email to owner
+
+
+
+
+product databse: 
+product id
+name
+price
+quantity
+
